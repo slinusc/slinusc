@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Linus
 
-<!--
-**slinusc/slinusc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a systems-oriented data scientist focused on building scalable solutions for large language models (LLMs), information retrieval, and machine learning infrastructure.  
+🔧 Passionate about optimizing inference, streamlining MLOps pipelines, and making AI systems more efficient and reliable.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Focus
+- LLM inference optimization (vLLM, llama.cpp, DeepSpeed, etc.)
+- Retrieval-Augmented Generation (RAG) systems
+- Benchmarking & performance analysis
+- GPU-efficient deployment
+- Backend abstraction layers for AI services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Languages I Use
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slinusc&layout=compact)](https://github.com/slinusc)
+
+## 📫 Reach Me
+- 🔗 [LinkedIn](https://linkedin.com/in/linus-stuhlmann)
+- 🌐 [Personal Website](https://linusstuhlmann.dev) *(if available)*
+
+---
+*“Efficiency isn't optional — it's a design principle.”*
